@@ -1,0 +1,23 @@
+programa {
+	funcao inicio() {
+		inteiro numero
+
+		
+		escreva ("digite um numero: ")
+		leia(numero)
+		
+
+		
+		se (numero % 5 == 0){
+		escreva("É divisivel de 5 ")}
+		
+		senao se (numero % 5 == 5){
+		escreva("É divisivel de 5 ")
+		
+		} senao {
+		escreva("nao é divisivel de 5")
+		
+		}
+		
+	}
+}
