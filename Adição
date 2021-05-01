@@ -6,12 +6,12 @@ programa {
 		inteiro adicao = num1 + num2
 		
 		
-		escreva("Adição: "  + adicao + "\n")
+		escreva("AdiÃ§Ã£o: "  + adicao + "\n")
 		
 		se (adicao > 10) {
-		    escreva("é maior que 10")
+		    escreva("Ã© maior que 10")
 		} senao {
-		    escreva("é menor ou igual a 10")
+		    escreva("Ã© menor ou igual a 10")
 	}
 }
 }
