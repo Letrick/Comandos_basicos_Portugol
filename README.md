@@ -1,2 +1,2 @@
-# Atividades-ADS---1---Facul
+# Comandos básicos - Portugol
 Comandos básicos do Portugol
