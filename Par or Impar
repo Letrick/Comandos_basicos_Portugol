@@ -7,10 +7,10 @@ programa {
 		leia(num1)
 
         se ( num1 % 2 == 0){
-        escreva ("o numero " + num1 + " é par")
+        escreva ("o numero " + num1 + " Ã© par")
             
         } senao
-        escreva ("o numero " + num1 + " é impar")
+        escreva ("o numero " + num1 + " Ã© impar")
     
 
 	
