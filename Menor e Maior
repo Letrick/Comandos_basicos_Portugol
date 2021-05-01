@@ -9,9 +9,9 @@ programa {
 		leia(numero)
 		
 		se (numero > 20) {
-		    escreva(numero + " é maior que 20")
+		    escreva(numero + " Ã© maior que 20")
 		} senao {
-		    escreva(numero + " é menor ou igual a 20")
+		    escreva(numero + " Ã© menor ou igual a 20")
 		}
 		
 	}
