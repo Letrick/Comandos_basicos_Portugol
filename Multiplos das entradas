@@ -12,13 +12,13 @@ programa {
 
 		
 		se (numero1 % numero2 == 0){
-		escreva("É multiplo de " + numero2)}
+		escreva("Ã‰ multiplo de " + numero2)}
 		
 		senao se (numero1 % numero2 == numero2){
-		escreva("É multiplo de " + numero2)
+		escreva("Ã‰ multiplo de " + numero2)
 		
 		} senao {
-		escreva("nao é multiplo de " + numero2)
+		escreva("nao Ã© multiplo de " + numero2)
 		
 		}
 		
