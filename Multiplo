@@ -10,9 +10,9 @@ programa {
 
 		
 		se (numero % 3 == 0){
-		escreva("É multiplo de 3")
+		escreva("Ã‰ multiplo de 3")
 		} senao {
-		escreva("nao é multiplo de 3")
+		escreva("nao Ã© multiplo de 3")
 		
 		}
 		
