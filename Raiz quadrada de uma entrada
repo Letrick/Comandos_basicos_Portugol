@@ -1,5 +1,5 @@
 programa {
-    	inclua biblioteca Matematica --> mat  // Inclui a biblioteca Matemática
+    	inclua biblioteca Matematica --> mat  // Inclui a biblioteca MatemÃ¡tica
 
 	funcao inicio() {
 			real raiz_quadrada, potencia
@@ -12,7 +12,7 @@ programa {
 		potencia = mat.potencia(valor, 2.0)
 		
 		se (raiz_quadrada >= 0){
-		escreva("A raiz quadrada do número é: ", raiz_quadrada, "\n")
+		escreva("A raiz quadrada do nÃºmero Ã©: ", raiz_quadrada, "\n")
 		
 		}senao 
 		escreva ("A potencia: " + potencia)
