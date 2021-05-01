@@ -15,7 +15,7 @@ programa {
         adicao = num1 + num2
         
         se (adicao > 10) {
-		    escreva(" é maior que 10")
+		    escreva(" Ã© maior que 10")
         
 	}
 }
